@@ -19,7 +19,7 @@ If you can help in any of these ways, or know of another way you can support dev
 
 # Cómo participar / How to get involved
 
-Para ponerse en contacto con este grupo, envíe un correo electrónico a latinoamerica@carpentries.org. Para unirse a la lista de correo electrónico, visita https://groups.google.com/a/carpentries.org/forum/#!forum/latinoamerica
+Para ponerse en contacto con este grupo, envía un correo electrónico a latinoamerica@carpentries.org. Para unirse a la lista de correo electrónico, visita https://groups.google.com/a/carpentries.org/forum/#!forum/latinoamerica
 
 To contact this group, email latinoamerica@carpentries.org. To join the email list, visit https://groups.google.com/a/carpentries.org/forum/#!forum/latinoamerica
 
