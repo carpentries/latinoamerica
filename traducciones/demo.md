@@ -19,7 +19,7 @@
 ## Antes de
 - cada participante seleccionará una "lección" para enseñar (p.ej. ["Python for ecologists"](http://www.datacarpentry.org/python-ecology-lesson/) or ["The Unix Shell](https://swcarpentry.github.io/shell-novice/))
 - cada participante escribirá su lección elegida junto a su nombre en el [Etherpad](http://pad.software-carpentry.org/teaching-demos) 
-- el instructor seleccionará un "episodio" de la lección elegida para que el participante enseñe
+- el instructor seleccionará un "episodio" de la lección elegida para que el participante enseñe (p.ej. ["Data Types and Formats"](http://www.datacarpentry.org/python-ecology-lesson/03-data-types-and-format/) or ["Pipes and Filters"](https://swcarpentry.github.io/shell-novice/04-pipefilter/))
 
 
 ## Durante
