@@ -16,7 +16,7 @@ Para ponerse en contacto con este grupo, envía un correo electrónico a latinoa
 - Instructor training / Capacitación de instructores: Karen Word (with help from Sue McClatchy, Rayna Harris, Belinda Weaver)
 - Fundraising / Recaudación de fondos: Erin Becker, Belinda Weaver, Jonah Duckles Sue McClatchy
 
-## The Unix Shell / El Shell de Unix
+## The UNIX Shell / El UNIX Ambiente
 
 View the first Spanish tranlsation of The Unix Shell lesson here! https://liz-fernandez.github.io/PBI_linux_shell/
 Vea la lección El Shell de Unix aquí! https://liz-fernandez.github.io/PBI_linux_shell/
