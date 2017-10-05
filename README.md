@@ -20,3 +20,11 @@ Para ponerse en contacto con este grupo, envía un correo electrónico a latinoa
 
 View the first Spanish tranlsation of The Unix Shell lesson here! https://liz-fernandez.github.io/PBI_linux_shell/
 Vea la lección El Shell de Unix aquí! https://liz-fernandez.github.io/PBI_linux_shell/
+
+
+## Bilingual Meetings 
+- We host monthly bilingual meetings for the **"Teaching Demo Sessions"  part of [Instructor Training Checkout](https://software-carpentry.org/blog/2015/12/instructor-training-checkout-procedure.html). **
+Sign up on the [Etherpad](http://pad.software-carpentry.org/teaching-demos) or read the [bilingual instructions](https://github.com/carpentries/latinoamerica/blob/master/traducciones/demo.md) for how the demo sessions work. 
+
+## reuniones bilingües 
+- Hacemos reuniones mensuales bilingües para la sección **"Enseñanza de las sesiones de demostración" de ["Instructor Training Checkout"] (https://software-carpentry.org/blog/2015/12/instructor-training-checkout-procedure.html).** Inscríbase en el [Etherpad] (http://pad.software-carpentry.org/teaching-demos) o lea las [instrucciones bilingües] (https://github.com/carpentries/latinoamerica/blob/master/traducciones/ demo.md) para saber cómo funcionan las sesiones de demostración.
