@@ -14,21 +14,21 @@
 - the instructor will send a follow-up email stating whether you have completed the demo or if you need to repeat the demo
 - the instructor will relay this information to the Director of Instructor Training
 
-## Traducción Española
+## En Español
 
 ## Antes de
 - cada participante seleccionará una "lección" para enseñar (p.ej. ["Python for ecologists"](http://www.datacarpentry.org/python-ecology-lesson/) or ["The Unix Shell](https://swcarpentry.github.io/shell-novice/))
-- cada participante escribirá su lección elegida junto a su nombre en el [Etherpad](http://pad.software-carpentry.org/teaching-demos) 
+- cada participante escribirá en el [Etherpad](http://pad.software-carpentry.org/teaching-demos) su lección elegida junto a su nombre  
 - el instructor seleccionará un "episodio" de la lección elegida para que el participante enseñe (p.ej. ["Data Types and Formats"](http://www.datacarpentry.org/python-ecology-lesson/03-data-types-and-format/) or ["Pipes and Filters"](https://swcarpentry.github.io/shell-novice/04-pipefilter/))
 
 
 ## Durante
-- nos reuniremos en la sala de videoconferencia en https://carpentries.zoom.us/j/357144246
-- cada participante compartirá su pantalla y enseñará durante 5 minutos del episodio asignado por el instructor
+- nos reuniremos en una videoconferencia usando https://carpentries.zoom.us/j/357144246
+- cada participante compartirá su pantalla y enseñará durante 5 minutos el episodio asignado por el instructor
 - todos los participantes y el instructor comentarán sobre la enseñanza de cada uno
 
 
 ## Después
-- el instructor enviará un correo electrónico de seguimiento indicando si ha completado la demo o si necesita repetir la demostración
+- el instructor enviará un correo electrónico de seguimiento indicando si ha completado el demo o si se necesita repetir la demostración
 - el instructor transmitirá esta información al Director of Instructor Training
 
