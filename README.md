@@ -1,10 +1,10 @@
-# Construyendo la Comunidad 'Carpentries' en América Latina / Building Carpentries Community in Latin America 
+# Construyendo la Comunidad de 'Carpentries' en América Latina / Building Carpentries Community in Latin America 
 
-La construcción de una comunidad sostenible y activa en América Latina incluye varias iniciativas diferentes: traducción de lecciones, capacitación de instructores, coordinación de talleres y recaudación de fondos. Este repositorio sirve como punto de aterrizaje para este grupo diverso de actividades.
+La construcción de una comunidad sostenible y activa en América Latina incluye varias iniciativas diferentes: traducción de lecciones, capacitación de instructores, coordinación de talleres y recaudación de fondos. Este repositorio sirve como punto de entrada para este grupo de actividades.
 
 Building a sustainable and active community in Latin America include several different iniatives: lesson translation, instructor training, workshop coordination, and fundraising. This respository serves as a landing point for this diverse group of activies.  
 
-#  / Ways to Help
+# Como puedes ayudar / Ways to Help
 
 There are many ways to help build Carpentry community in Latin America. 
 
@@ -29,10 +29,10 @@ To contact this group, email latinoamerica@carpentries.org. To join the email li
 - Capacitación de instructores / Instructor training: Karen Word (with help from Sue McClatchy, Rayna Harris, Belinda Weaver)
 - Recaudación de fondos / Fundraising: Erin Becker, Belinda Weaver, Jonah Duckles Sue McClatchy
 
-## The UNIX Shell / El UNIX Ambiente
+## The UNIX Shell / El Ambiente de UNIX
 
-View the first Spanish tranlsation of The Unix Shell lesson here! https://liz-fernandez.github.io/PBI_linux_shell/
-Vea la lección El Shell de Unix aquí! https://liz-fernandez.github.io/PBI_linux_shell/
+View the first Spanish tranlsation of The Unix Shell lesson here! 
+Vea la lección El Shell de Unix aquí! 
 
 ## Bilingual Meetings 
 - We host monthly bilingual meetings for the **"Teaching Demo Sessions"  part of [Instructor Training Checkout](https://software-carpentry.org/blog/2015/12/instructor-training-checkout-procedure.html). **
