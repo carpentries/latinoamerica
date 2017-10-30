@@ -23,7 +23,7 @@ Vea la lección El Shell de Unix aquí! https://liz-fernandez.github.io/PBI_linu
 
 
 ## Bilingual Meetings 
-- We host monthly bilingual meetings for the **"Teaching Demo Sessions"  part of [Instructor Training Checkout](https://software-carpentry.org/blog/2015/12/instructor-training-checkout-procedure.html). **
+- We host monthly bilingual meetings for the **"Teaching Demo Sessions"  part of [Instructor Training Checkout](https://software-carpentry.org/blog/2015/12/instructor-training-checkout-procedure.html).**
 Sign up on the [Etherpad](http://pad.software-carpentry.org/teaching-demos) or read the [bilingual instructions](https://github.com/carpentries/latinoamerica/blob/master/traducciones/demo.md) for how the demo sessions work. 
 
 ## reuniones bilingües 
