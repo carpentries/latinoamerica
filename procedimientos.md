@@ -14,6 +14,6 @@ Procedimientos para proximas reuniones.
 Accion: Paula agregar estos datos al documento de procedimientos.
 
 
-## Instrucciones de Traduccion 2019/200
+## Instrucciones de Traduccion 2019/2020
 
 [enlace https://github.com/carpentries/latinoamerica/blob/master/traducciones/2019_instrucciones.md](https://github.com/carpentries/latinoamerica/blob/master/traducciones/2019_instrucciones.md)
