@@ -12,3 +12,8 @@ Procedimientos para proximas reuniones.
 5. Los que no pueden asistir pero estan interesados en la reunión, pueden escribir en el etherpad sus ideas, o noticias que quieran compartir y luego leer las minutas.
 6. El lider de la reunion es responsable de hacer un PR de las minutas en el repo https://github.com/carpentries/latinoamerica seguidamente informar a la comunidad sobre las minutas, via slack.
 Accion: Paula agregar estos datos al documento de procedimientos.
+
+
+## Instrucciones de Traduccion 2019/200
+
+[enlace https://github.com/carpentries/latinoamerica/blob/master/traducciones/2019_instrucciones.md](https://github.com/carpentries/latinoamerica/blob/master/traducciones/2019_instrucciones.md)
