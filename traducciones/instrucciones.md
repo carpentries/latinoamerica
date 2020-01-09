@@ -1,4 +1,4 @@
-# Instrucciones para traducir y revisar
+# Instrucciones para traducir y revisar 2017
 
 Hemos comenzado con la lección de shell de Software Carpentry [Link](agregar el link).
 
