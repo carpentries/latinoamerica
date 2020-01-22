@@ -66,5 +66,6 @@ En caso de que quieras traducir:
 ### 5.2 Revisiones
 En caso de que quieras revisar recursos ya traducidos:
 1. Ve a la lista **d**, **e** o **f** y sigue los mismos pasos como si fuera una traducción.
+1. En Transifex, por cada fragmento que hayas revisado márcalo como tal (botón al lado de guardar cambios en el cuadro de traducción). Si te gustaría hacer un comentario a dicha traducción, hazlo pinchando en la sección de comentarios (a la derecha de la pantalla).
 
 Ante cualquier duda o consulta preguntar a través del canal de Riot / Slack.
