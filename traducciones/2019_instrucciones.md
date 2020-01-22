@@ -39,7 +39,7 @@ d. **Revisión 1**: aquí figuran las secciones que se terminaron de traducir y 
 
 e. **Revisión 2**: una vez finalizada la primera revisión se colocan las tarjetas aquí para realizar una segunda revisión.
 
-f. **Revisión final**: es el último proceso de revisión antes de que el material sea subido al repositorio para se pueso en producción.
+f. **Revisión final**: es el último proceso de revisión antes de que el material sea subido al repositorio para que se publique.
 
 g. **Con observaciones**: aquí se ubican las tarjetas que luego de su revisión todavía necesitan ciertas modificaciones.
 
