@@ -40,7 +40,7 @@ e. **Revisión 2**: una vez finalizada la primera revisión se colocan las tarje
 
 f. **Revisión final**: es el último proceso de revisión antes de que el material sea subido al repositorio para se pueso en producción.
 
-g. **Con observaciones**: aquí se ubican las tarjetas que luego de su revisión todavía necesan ciertas modificaciones.
+g. **Con observaciones**: aquí se ubican las tarjetas que luego de su revisión todavía necesitan ciertas modificaciones.
 
 h. **Listos**: contiene un listado de los recursos traducidos satisfactoriamente.
 
