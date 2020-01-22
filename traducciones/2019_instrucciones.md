@@ -24,7 +24,7 @@ Informar a todas las personas participantes e interesadas en participar en los p
 
 ## 3. Organización del Tablero de Trello
 
-Una vez cumplidos los requisitos, ingresar al tablero de Trello que usamos para coordinar las traducciones a travez de [este link](https://trello.com/invite/b/8weO4xoS/b3d61bf7fcd3c7d0567201c20142bb13/notebook-translation-es). En caso de que el link no se encuentre activo, notificar mediante el canal de Riot/Slack.
+Una vez cumplidos los requisitos, ingresa [al tablero de Trello que usamos para coordinar las traducciones](https://trello.com/invite/b/8weO4xoS/b3d61bf7fcd3c7d0567201c20142bb13/notebook-translation-es). En caso de que el enlace no se encuentre activo, notifícanos mediante el canal de Riot/Slack.
 
 El tablero está dividido en las siguientes listas:
 
