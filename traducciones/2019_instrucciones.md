@@ -19,7 +19,9 @@ Informar a todas las personas participantes e interesadas en participar en los p
 1. Tener una cuenta en [Trello](https://trello.com/) (es gratuito)
 2. Tener una cuenta en [Transifex](https://www.transifex.com/) (es gratuito)
 3. Ingresar al [canal de Riot de Carpentries_ES](https://matrix.to/#/!DiYhyKboywrDdhLjXH:matrix.org?via=matrix.org&via=petrichor.me) o accediendo al canal del mismo nombre dentro del [equipo de slack de las Carpentries](https://swcarpentry.slack.com) ([auto-invítate si no tienes acceso](https://swc-slack-invite.herokuapp.com/))
-4. Notificar a Leonardo Spairani (usuario de Riot / Slack @leonardo_spai) para solicitar acceso a la plataforma de traducción y al tablero de Trello.
+4. Notificar a alguno de los siguientes usuarios para solicitar acceso a la plataforma de traducción y al tablero de Trello:
+- Leonardo Spairani (@leonardo_spai)
+- Laura Acion (@Laura Acion)  
 
 A la brevedad se te avisará que ya está todo habilitado como para que empieces a traducir o revisar el material.
 
@@ -45,7 +47,7 @@ g. **Con observaciones**: aquí se ubican las tarjetas que luego de su revisión
 
 h. **Listos**: contiene un listado de los recursos traducidos satisfactoriamente.
 
- Para empezar, haz click sobre la tarjeta dentro de la lista, se abrirá una lista con todos los recursos correspondientes a una sección en particular del material que está siendo traducido. Haz click sobre
+ Para empezar, haz click sobre la tarjeta dentro de la lista, se abrirá una lista con todos los recursos correspondientes a una sección en particular del material que está siendo traducido. Haz click sobre un enlace para ir a la plataforma Transifex y comenzar a traducir o revisar.
 
 ## 4. Uso de la plataforma Transifex
 Dentro de la lista **a** en tablero de Trello hay información sobre el uso de la plataforma. De todas maneras aquí hay un [video tutorial](https://youtu.be/388CDBUr62U) para comenzar a traducir y un [instructivo](https://docs.google.com/presentation/d/1pujIcar9aaOkJKGl8VqxlzJYcbpeHNAzcnZtCmsXJS0/edit?usp=sharing) para la realización de revisiones de material traducido.
@@ -67,7 +69,6 @@ En caso de que quieras traducir:
 ### 5.2 Revisiones
 En caso de que quieras revisar recursos ya traducidos:
 1. Ve a la lista **d**, **e** o **f** y sigue los mismos pasos como si fuera una traducción.
-1. En Transifex, por cada fragmento que hayas revisado márcalo como tal (botón al lado de guardar cambios en el cuadro de traducción). Si te gustaría hacer un comentario a dicha traducción, hazlo pinchando en la sección de comentarios (a la derecha de la pantalla).
-1. En Transifex, por cada fragmento que hayas revisado márcalo como tal (botón al lado de guardar cambios en el cuadro de traducción). Si te gustaría hacer un comentario a dicha traducción, hazlo pinchando en la sección de comentarios (a la derecha de la pantalla).
+2. En Transifex, por cada fragmento que hayas revisado márcalo como tal (botón al lado de guardar cambios en el cuadro de traducción). Si te gustaría hacer un comentario a dicha traducción, hazlo pinchando en la sección de comentarios (a la derecha de la pantalla).
 
 Ante cualquier duda o consulta preguntar a través del canal de Riot / Slack.
