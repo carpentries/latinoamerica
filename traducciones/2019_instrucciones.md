@@ -20,7 +20,8 @@ Informar a todas las personas participantes e interesadas en participar en los p
 2. Tener una cuenta en [Transifex](https://www.transifex.com/) (es gratuito)
 3. Ingresar al [canal de Riot de Carpentries_ES](https://matrix.to/#/!DiYhyKboywrDdhLjXH:matrix.org?via=matrix.org&via=petrichor.me) o accediendo al canal del mismo nombre dentro del [equipo de slack de las Carpentries](https://swcarpentry.slack.com) ([auto-invítate si no tienes acceso](https://swc-slack-invite.herokuapp.com/))
 4. Notificar a Leonardo Spairani (usuario de Riot / Slack @leonardo_spai) para solicitar acceso a la plataforma de traducción y al tablero de Trello.
-5. A la brevedad se te avisará que ya está todo habilitado como para que empieces a traducir o revisar el material.
+
+A la brevedad se te avisará que ya está todo habilitado como para que empieces a traducir o revisar el material.
 
 ## 3. Organización del Tablero de Trello
 
