@@ -1,10 +1,13 @@
 # REUNIÓN 
 
-| Fecha                                | <día> de <mes>, <año:YYYY>                                                                                 |
-| Calendario de eventos de Carpentries | [ver más detalles para ver la zona horaria](https://carpentries.org/community/#community-events )                   |
-| Lugar                                | [Zoom Room 3](https://carpentries.zoom.us/my/carpentriesroom3 )                                                     |
+|||
+|--|--|
+| Fecha                                | <día> de <mes>, <año:YYYY>|                                                                    
+| Calendario de eventos de Carpentries | [ver más detalles para ver la zona horaria](https://carpentries.org/community/#community-events )|
+| Lugar                                | [Zoom Room 3](https://carpentries.zoom.us/my/carpentriesroom3 )  |                                                   
 | Minutas de la última reunión         | [<día> de <mes>, <año>](https://github.com/carpentries/latinoamerica/blob/master/traducciones/minutos/<año>-<mes>-<dia>.md ) |
-| Lider                                | <cambiame>                                                                                                    |
+| Lider                                | <cambiame> |
+ 
 
 ## Participantes (nombre, afiliación, email):
 * 
