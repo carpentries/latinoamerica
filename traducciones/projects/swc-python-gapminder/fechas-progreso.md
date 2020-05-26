@@ -6,6 +6,8 @@ estamos usando email y slack. Esta tabla de progreso es pública para dar recono
 
 Muchas gracias por su participación. Por favor antes de traducir familiarizarse con las convenciones de traducción [https://github.com/Carpentries-ES/board/blob/master/Convenciones_Traduccion.md](https://github.com/Carpentries-ES/board/blob/master/Convenciones_Traduccion.md). Para resolver dudas, usar slack.
 
+Si encuentran algo fácil de corregir o amendar en la lección original, por favor escribir un issue directamente en esa lección [https://github.com/swcarpentry/python-novice-gapminder/issues/](https://github.com/swcarpentry/python-novice-gapminder/issues/) los que mantienen esa lección ya están informados de posibles sugerencias de mejoría.
+
 Archivo | Nombre de archivo | Reponsable de traducción | Fecha de inicio | Fecha de entrega | Responsable de revisión | Fecha de inicio | Fecha de entrega
 --- | --- | --- | --- | --- | --- | --- | --- 
 https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_09__06-libraries|	libraries|	miguelgondu|	2020-05-26|
