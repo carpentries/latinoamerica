@@ -22,3 +22,6 @@ https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es
 "https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_17__14-looping-data-sets, https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_20__17-scope"|	"looping-datasets, scope"|	invited	: Irma M|2020-05-26|
 "https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_21__18-style, https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_22__19-wrap, https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_23__20-feedback"	|"style, wrap, feedback"|ochoadavid	|2020-05-25|
 https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_16__13-conditionals	|conditionals|	invited: lupe	|2020-05-26|
+reference.md| |Se necesita ayuda|
+(Se pueden copiar de otras lecciones) CITATION, CODE_OF_CONDUCT.md, CONTRIBUTING.md, LICENSE.md | |Se necesita ayuda|
+README.md, index.md, setup.md| |Se necesita ayuda|
