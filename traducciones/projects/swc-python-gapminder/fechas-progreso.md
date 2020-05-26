@@ -1,6 +1,6 @@
 # Distribución de roles y progreso 
 
-La meta es traducir toda la lección [https://github.com/swcarpentry/python-novice-gapminder](https://github.com/swcarpentry/python-novice-gapminder) hasta el final del mes de Junio 2020 y luego revisar en las siguientes dos semanas. 
+La meta es traducir toda la lección [https://github.com/swcarpentry/python-novice-gapminder](https://github.com/swcarpentry/python-novice-gapminder) hasta mitad del mes de Junio 2020 y luego revisar en las siguientes dos semanas. 
 Esta tabla de progreso está siendo actualizada manualmente por Paula [@orchid00](https://github.com/orchid00). Para comunicaciones
 estamos usando email y slack. Esta tabla de progreso es pública para dar reconocimiento a los colaboradores. Si alguien quiere unirse por favor comunicarse con Paula. 
 
