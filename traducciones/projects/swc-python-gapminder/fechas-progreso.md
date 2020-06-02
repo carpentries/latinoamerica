@@ -25,7 +25,7 @@ https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es
 "https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_21__18-style, https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_22__19-wrap, https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_23__20-feedback"	|"style, wrap, feedback"|ochoadavid	|2020-05-25||orchid00|
 https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_16__13-conditionals	|conditionals|	invited: lupe	|2020-05-26|
 https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es | coffee 1, lunch, coffee 2| orchid00| 2020-05-25| 2020-05-26|
-reference.md| | David| 2020-05-31 | 2020-05-31 |
-(Se pueden copiar de otras lecciones) ~CITATION~, CODE_OF_CONDUCT.md, CONTRIBUTING.md, LICENSE.md, aoi, guide, figures, exercises, discuss, about, feedback, | |David| 2020-05-31 | 2020-05-31 |
+reference.md| | DavidPS| 2020-05-31 | 2020-05-31 |
+(Se pueden copiar de otras lecciones) ~CITATION~, CODE_OF_CONDUCT.md, CONTRIBUTING.md, LICENSE.md, aoi, guide, figures, exercises, discuss, about| |DavidPS| 2020-05-31 | 2020-05-31 |
 README.md, index.md, setup.md| |David| 2020-05-31 | 2020-05-31 | Hely |2020-06-01|
 design.md|
