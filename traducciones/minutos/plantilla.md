@@ -54,7 +54,7 @@
 - Revisar issues en el [repositorio con las actividades pendientes](https://github.com/carpentries/latinoamerica/issues).
 
 
-8. **Otras codas**
+8. **Otras cosas**
 - <nombre>: ...
 
 
