@@ -20,7 +20,7 @@ https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es
 https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_11__08-data-frames|	data-frames	|vjimenez9	|2020-05-25|2020-06-02| Limachi |2020-06-02|
 https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_19__16-writing-functions|	writing-functions|	ArielSilvio|	2020-05-26|
 https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_04__01-run-quit|	run-quit|	Hely|	2020-05-25|2020-06-01| nicoguaro| 2020-06-03|
-https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_07__04-built-in|	built-in|	NPalopoli|	2020-05-25|
+https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_07__04-built-in|	built-in|	NPalopoli|	2020-05-25| 2020-06-04| |
 "https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_17__14-looping-data-sets, https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_20__17-scope"|	"looping-datasets, scope"|	Irma M|2020-05-26|2020-06-01| Sandro |2020-06-01|
 "https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_21__18-style, https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_22__19-wrap, https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_23__20-feedback"	|"style, wrap, feedback"|ochoadavid	|2020-05-25||orchid00|
 https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_16__13-conditionals	|conditionals|	invited: lupe	|2020-05-26|
