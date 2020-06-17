@@ -10,7 +10,7 @@ Si encuentran algo fácil de corregir o amendar en la lección original, por fav
 
 Archivo | Nombre de archivo | Reponsable de traducción | Fecha de inicio | Fecha de entrega | Responsable de revisión | Fecha de inicio | Fecha de entrega
 --- | --- | --- | --- | --- | --- | --- | --- 
-https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_09__06-libraries|	libraries|	miguelgondu|	2020-05-26|2020-06-01| Irma Martinez | 2020-06-01|
+https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_09__06-libraries|	libraries|	miguelgondu|	2020-05-26|2020-06-01| Irma Martinez | 2020-06-01| 2020-06-16|
 https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_06__03-types-conversion|	types-conversion	|ivan.ogasawara	| 2020-05-25| 2020-06-08| Hely| 2020-06-01|
 https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_10__07-reading-tabular	|reading-tabular|	esloch|	2020-05-26|2020-06-01| Ingrid |2020-06-01|
 https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_12__09-plotting|	plotting|	Limachi	|2020-05-26| 2020-06-02| Npalopoli | 2020-06-02| 
