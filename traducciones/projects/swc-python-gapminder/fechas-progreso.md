@@ -28,4 +28,4 @@ https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es
 reference.md| | DavidPS| 2020-05-31 | 2020-05-31 | ochoadavid | 2020-06-08 |
 (Se pueden copiar de otras lecciones) ~CITATION~, CODE_OF_CONDUCT.md, CONTRIBUTING.md, LICENSE.md, aoi, guide, figures, exercises, discuss, about| |DavidPS| 2020-05-31 | 2020-05-31 |
 README.md, index.md, setup.md| |DavidPS| 2020-05-31 | 2020-05-31 | Hely |2020-06-01|
-design.md| (1-108) Gonzalo, (109-2016) Sandro | 2020-06-23| | nicoguaro |
+https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_25__design| design.md| (1-108) Gonzalo, (109-2016) Sandro | 2020-06-23| | nicoguaro |
