@@ -26,9 +26,9 @@ https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es
 https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_16__13-conditionals	|conditionals|	ingrid Bianka	|2020-06-10 | 2020-06-17| ivan.ogasawara| 2020-06-17| 2020-06-22|
 https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es | coffee 1, lunch, coffee 2| orchid00| 2020-05-25| 2020-05-26| Vero | 2020-06-23| 2020-06-29|
 https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_32__reference| reference.md| DavidPS| 2020-05-31 | 2020-05-31 | ochoadavid | 2020-06-08 |
-(Se pueden copiar de otras lecciones) ~CITATION~, guide, figures, exercises, discuss||guide, figures, exercises, discuss|DavidPS| 2020-05-31 | 2020-05-31| Vero |2020-05-26|2020-06-29|
+(Se pueden copiar de otras lecciones) ~CITATION~, guide, figures, exercises, discuss|guide, figures, exercises, discuss|DavidPS| 2020-05-31 | 2020-05-31| Vero |2020-05-26|2020-06-29|
 https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_02__LICENSE |LICENSE.md | DavidPS| 2020-05-31 | 2020-05-31| Ingrid | 2020-06-23| 2020-06-28|
 https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_00__CODE_OF_CONDUCT, https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_01__CONTRIBUTING |CONTRIBUTING.md, CODE_OF_CONDUCT.md| DavidPS| 2020-05-31 | 2020-05-31 | laucifasis | 2020-06-17| 2020-06-22|
-README.md, setup.md| |DavidPS| 2020-05-31 | 2020-05-31 | Irma |2020-06-23|
+README.md, setup.md| README.md, setup.md|DavidPS| 2020-05-31 | 2020-05-31 | Irma |2020-06-23| 2020-06-29|
 https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_31__index, https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_30__aio, https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_24__about | index.md, aio, about| DavidPS| 2020-05-31 | 2020-05-31 | Paula |2020-06-23| 2020-06-23|
 https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_25__design| design.md| Sandro, Paula | 2020-06-23, 2020-07-02| 2020-07-02 | nicoguaro, DavidPS | 2020-07-02| 
