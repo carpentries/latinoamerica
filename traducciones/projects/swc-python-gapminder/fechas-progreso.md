@@ -16,7 +16,7 @@ https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es
 https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_12__09-plotting|	plotting|	Limachi	|2020-05-26| 2020-06-02| Npalopoli | 2020-06-02| 
 https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_14__11-lists	|lists|	nicoguaro	|2020-05-25| 2020-06-03| LauCIFASIS | 2020-06-03| 2020-06-16|
 https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_15__12-for-loops	|for-loops|	ingrid.bianka|	2020-05-25|2020-06-01|miguelgondu |2020-06-01| 2020-06-22
-https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_05__02-variables	|variables	|LauCIFASIS|	2020-05-25| 2020-06-04| ivan.ogasawara | 2020-06-08|
+https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_05__02-variables	|variables	|LauCIFASIS|	2020-05-25| 2020-06-04| ivan.ogasawara | 2020-06-08| 2020-06-29|
 https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_11__08-data-frames|	data-frames	|vjimenez9	|2020-05-25|2020-06-02| Limachi |2020-06-02| 2020-06-22|
 https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_19__16-writing-functions|	writing-functions|	Ariel, Laucifasis|	2020-05-26, 2020-06-23| 2020-06-23, | orchid00|2020-06-23|
 https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_04__01-run-quit|	run-quit|	Hely|	2020-05-25|2020-06-01| nicoguaro| 2020-06-03| 2020-06-17|
