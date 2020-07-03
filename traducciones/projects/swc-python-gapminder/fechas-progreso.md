@@ -8,6 +8,10 @@ Muchas gracias por su participación. Por favor antes de traducir familiarizarse
 
 Si encuentran algo fácil de corregir o amendar en la lección original, por favor escribir un issue directamente en esa lección [https://github.com/swcarpentry/python-novice-gapminder/issues/](https://github.com/swcarpentry/python-novice-gapminder/issues/) los que mantienen esa lección ya están informados de posibles sugerencias de mejoría.
 
+
+:tada: **la traducción y revision de esta lección se ha completado el 3 de Julio 2020!!!! *Gracias*!!!! 
+Lo que sigue es mover la lección traducida al repositorio oficial de las carpentries.**
+
 Archivo | Nombre de archivo | Reponsable de traducción | Fecha de inicio | Fecha de entrega | Responsable de revisión | Fecha de inicio | Fecha de entrega
 --- | --- | --- | --- | --- | --- | --- | --- 
 https://www.transifex.com/carpentries-i18n/python-novice-gapminder/translate/#es/pot_09__06-libraries|	libraries|	miguelgondu|	2020-05-26|2020-06-01| Irma Martinez | 2020-06-01| 2020-06-16|
