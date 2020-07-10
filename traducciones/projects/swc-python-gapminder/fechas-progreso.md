@@ -2,7 +2,14 @@
 
 La meta es traducir toda la lección [https://github.com/swcarpentry/python-novice-gapminder](https://github.com/swcarpentry/python-novice-gapminder) hasta mitad del mes de Junio 2020 y luego revisar en las siguientes dos semanas. 
 Esta tabla de progreso está siendo actualizada manualmente por Paula [@orchid00](https://github.com/orchid00). Para comunicaciones
-estamos usando email y slack. Esta tabla de progreso es pública para dar reconocimiento a los colaboradores. Si alguien quiere unirse por favor comunicarse con Paula. 
+estamos usando email y slack. Esta tabla de progreso es pública para dar reconocimiento a los colaboradores. 
+
+**La primera semana de Julio 2020, se han terminado las traducciones y revisions muchas gracias equipo.
+La leccion beta se puede ver aqui https://carpentries-i18n.github.io/python-novice-gapminder/
+Mientras hagamos la seguna revision de formato antes de mover la lección a https://github.com/swcarpentry/ .
+Si alguno de estedes esta interesado en manterner la lección por favor contactarse con Paula. **
+
+
 
 Muchas gracias por su participación. Por favor antes de traducir familiarizarse con las convenciones de traducción [https://github.com/Carpentries-ES/board/blob/master/Convenciones_Traduccion.md](https://github.com/Carpentries-ES/board/blob/master/Convenciones_Traduccion.md). Para resolver dudas, usar slack.
 
