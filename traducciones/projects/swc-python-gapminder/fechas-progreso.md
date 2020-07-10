@@ -7,7 +7,7 @@ estamos usando email y slack. Esta tabla de progreso es pública para dar recono
 **La primera semana de Julio 2020, se han terminado las traducciones y revisions muchas gracias equipo.
 La leccion beta se puede ver aqui https://carpentries-i18n.github.io/python-novice-gapminder/
 Mientras hagamos la seguna revision de formato antes de mover la lección a https://github.com/swcarpentry/ .
-Si alguno de estedes esta interesado en manterner la lección por favor contactarse con Paula. **
+Si alguno de estedes esta interesado en manterner la lección por favor contactarse con Paula.**
 
 
 
